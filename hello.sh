@@ -1,1 +1,2 @@
-echo Hello from DevOps Task 4
+echo "echo This is an updated feature from feature-1 branch by dhanush" >> hello.sh
+
